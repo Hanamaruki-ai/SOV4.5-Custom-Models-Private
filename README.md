@@ -1,5 +1,24 @@
 # SOV4.5-Custom-Models-Private
 
+---
+
+# SOV 4.5 Custom Models (Private Repository)
+
+This repository contains the custom SOV 4.5 model set  
+available exclusively to GitHub Sponsors.
+
+Please check the /DOCS folder for usage notes and license details.
+
+---
+
+# SOV 4.5 カスタムモデル（非公開）
+
+本リポジトリは GitHub Sponsors 限定の特典です。  
+利用方法やライセンスは /DOCS フォルダをご確認ください。
+
+
+---
+
 # SOV4.5 Custom Model Set (Private Repository)
 
 Thank you for supporting my work through GitHub Sponsors.
