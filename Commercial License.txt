@@ -1,0 +1,70 @@
+============================================================
+COMMERCIAL LICENSE
+商業利用ライセンス
+============================================================
+
+Version: 1.0  
+Author: Hanamaruki  
+Applies to: SOV 4.5 Custom Models / AI Kyoji-Design Custom Models  
+
+------------------------------------------------------------
+1. Grant of License | ライセンス付与
+------------------------------------------------------------
+This license allows commercial use of the included files and
+derivative works under the conditions defined below.
+
+本ライセンスは、本ファイルおよび派生物を、
+以下の条件のもとで商業利用することを許可します。
+
+------------------------------------------------------------
+2. Allowed Commercial Uses | 許可される商用利用
+------------------------------------------------------------
+- Integration into internal business workflows  
+- Use within corporate AI systems  
+- Use for client work and consulting  
+- Use in paid products, services, or automation pipelines  
+
+- 社内業務システムへの統合  
+- 企業内AI運用での利用  
+- クライアントワークへの利用  
+- 有償サービス・プロダクト・自動化ラインでの使用
+
+------------------------------------------------------------
+3. Restrictions | 制限事項
+------------------------------------------------------------
+- Redistribution of the original files is prohibited  
+- Resale of the models themselves is prohibited  
+- Public release of the raw model files is prohibited  
+- Attribution must be preserved within internal documentation  
+
+- 元ファイルの再配布は禁止  
+- モデル自体の転売は禁止  
+- モデル本体の公開は禁止  
+- 社内文書におけるクレジット表記は維持すること
+
+------------------------------------------------------------
+4. Liability | 免責事項
+------------------------------------------------------------
+The author is not liable for any business losses,
+system failures, or damages resulting from the use.
+
+利用によるビジネス損失・システム障害等について、  
+作者は一切の責任を負いません。
+
+------------------------------------------------------------
+5. License Validity | ライセンスの有効性
+------------------------------------------------------------
+This license applies perpetually to the purchased version.  
+Updates are not guaranteed.
+
+本ライセンスは購入されたバージョンに対して永続的に有効です。  
+更新は保証されません。
+
+------------------------------------------------------------
+6. Contact | 問い合わせ
+------------------------------------------------------------
+For extended corporate licensing or enterprise agreements,
+contact me through GitHub.
+
+企業向けの拡張ライセンスや特別契約を希望される場合は、  
+GitHub よりご連絡ください。

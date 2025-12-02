@@ -1,0 +1,59 @@
+============================================================
+MTI LICENSE (Multi-Tier Internal License)
+MTI ライセンス（個人・研究機関向け）
+============================================================
+
+Version: 1.0  
+Author: Hanamaruki  
+Applies to: SOV 4.5 Custom Models / AI Kyoji-Design Models  
+
+------------------------------------------------------------
+1. Purpose | 目的
+------------------------------------------------------------
+This license permits personal use, research use, and internal
+non-commercial projects.
+本ライセンスは、個人利用・学術研究利用・社内での
+非商用プロジェクト利用を許可します。
+
+------------------------------------------------------------
+2. Allowed Uses | 許可される利用
+------------------------------------------------------------
+- Personal study and experimentation  
+- Academic or research projects  
+- Internal evaluation within an organization  
+- Modification for private use only  
+
+- 個人的な学習・実験  
+- 学術・研究プロジェクトでの利用  
+- 組織内部での評価目的の利用  
+- 個人的な改変（公開不可）
+
+------------------------------------------------------------
+3. Prohibited Uses | 禁止事項
+------------------------------------------------------------
+- Redistribution of the files  
+- Uploading the models publicly  
+- Commercial use without a Commercial License  
+- Sharing or publishing derivative models  
+
+- ファイルの再配布  
+- モデルを公開場所へアップロードする行為  
+- 商業利用（商用ライセンスが必要）  
+- 派生モデルの公開・共有
+
+------------------------------------------------------------
+4. Liability | 免責事項
+------------------------------------------------------------
+Use at your own risk.  
+The author is not responsible for any direct or indirect loss.
+
+利用による損害について、作者は一切の責任を負いません。
+
+------------------------------------------------------------
+5. Contact | 問い合わせ
+------------------------------------------------------------
+For commercial licensing or special permission, contact me
+through GitHub.
+
+商用利用のライセンスや特別許可が必要な場合は、  
+GitHub を通じてご連絡ください。
