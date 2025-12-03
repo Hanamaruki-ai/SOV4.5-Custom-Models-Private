@@ -37,7 +37,15 @@ provided exclusively to sponsors.
 - This repository contains only the public-safe layers.  
   Advanced (SL / Advanced V1 / EvoMax) layers are not included.  
 
-If you have any issues accessing the files, feel free to contact me via GitHub.
+---
+
+## ☕ Support & Documentation
+
+**[Read the SOV 4.5 Custom Models Magazine on note.com](https://note.com/cheeky_daisy8872/m/mc1eccfeb4f8e)**  
+Detailed explanations, usage patterns, and examples for the SOV 4.5 custom models are collected in this magazine.  
+If you find these templates helpful, consider supporting the ongoing development of the SOVOS architecture.
+ 
+Your sponsorship helps maintain and extend this independent research project.
 
 ---
 
@@ -48,7 +56,8 @@ GitHub Sponsors によるご支援ありがとうございます。
 本リポジトリには **SOV 4.5 カスタムモデル5種類** を収録しています。
 
 ## 内容
-- Custom_SOV4.5_Models.zip  
+- Custom_SOV4.5_Models.zip [docs.zip](https://github.com/user-attachments/files/23918046/docs.zip)
+ 
 - 簡易ガイド  
 - アーキテクチャ概要  
 
@@ -60,9 +69,11 @@ GitHub Sponsors によるご支援ありがとうございます。
 
 ---
 
-============================================================
-MTI LICENSE (Multi-Tier Internal License)
-MTI ライセンス（個人・研究機関向け）
+============================================================　
+
+### MTI LICENSE (Multi-Tier Internal License)　
+### MTI ライセンス（個人・研究機関向け）　
+
 ============================================================
 
 Version: 1.0  
@@ -113,7 +124,8 @@ The author is not responsible for any direct or indirect loss.
 
 ------------------------------------------------------------
 5. Contact | 問い合わせ
-------------------------------------------------------------
+------------------------------------------------------------ 
+
 For commercial licensing or special permission, contact me
 through GitHub.
 
@@ -122,9 +134,11 @@ GitHub を通じてご連絡ください。
 
 ---
 
-============================================================
-COMMERCIAL LICENSE
-商業利用ライセンス
+============================================================ 
+
+### COMMERCIAL LICENSE 
+### 商業利用ライセンス 
+
 ============================================================
 
 Version: 1.0  
@@ -187,10 +201,19 @@ Updates are not guaranteed.
 ------------------------------------------------------------
 6. Contact | 問い合わせ
 ------------------------------------------------------------
+
 For extended corporate licensing or enterprise agreements,
 contact me through GitHub.
 
-企業向けの拡張ライセンスや特別契約を希望される場合は、  
-GitHub よりご連絡ください。
+商用利用のライセンスや特別許可が必要な場合は、  
+GitHub を通じてご連絡ください。
+
+---
+
+**SOV 4.5 カスタムモデルの詳しい使い方・設計思想はこちらの note マガジンで解説しています。**  
+👉 **[SOV 4.5 カスタムモデル解説マガジンを見る](https://note.com/cheeky_daisy8872/m/mc1eccfeb4f8e)**
+
+もし本リポジトリやテンプレートが役に立ったと感じていただけましたら、  
+SOVOS アーキテクチャ継続研究のためにご支援いただけると嬉しいです。  
 
 ---
