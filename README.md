@@ -2,6 +2,58 @@
 
 ---
 
+## Notice on Public Release
+
+This repository was originally maintained as a private repository
+with sponsor-based access.
+
+However, through continued discussion and feedback,
+it became clear that providing technical artifacts as "benefits"
+can unintentionally increase psychological and cognitive burden
+for supporters.
+
+In Western open-source culture, support is most sustainable
+when it is voluntary, unobligated, and free from expectations.
+
+For that reason, this repository is now published publicly.
+The contents remain unchanged.
+
+Support, if offered, is appreciated — but never required.
+
+---
+
+## 公開方針について
+
+本リポジトリは当初、支援者限定の非公開リポジトリとして運用していました。
+
+しかし、支援を特典と結びつけることが、
+支援者にとって精神的・認知的な負担になり得ることが明確になったため、
+現在は公開リポジトリとして開放しています。
+
+内容は当時のまま保持しています。
+ご理解とご関心に感謝します。
+
+---
+
+This repository is intentionally published up to SoV 4.5a.
+
+Advanced operational layers such as EvoMax are not included
+and are not planned for public release.
+
+These higher layers involve system-level acceleration and control
+that require direct context, responsibility, and dialogue
+to be handled safely.
+
+---
+
+本リポジトリでは、公開範囲を SoV 4.5a までに限定しています。
+
+EvoMax 以降の高度な運用レイヤーは、
+文脈理解と責任共有を前提とするため、
+無償・無差別公開は行っていません。
+
+---
+
 # SOV 4.5 Custom Models (Private Repository)
 
 This repository contains the custom SOV 4.5 model set  
